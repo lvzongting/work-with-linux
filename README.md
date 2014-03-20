@@ -13,9 +13,11 @@ linuxtoy上面有一份排版完美的[完全用linux排版](http://i.linuxtoy.o
 欢迎各位开源爱好者一起来更新，维护，让开源的知识斯流永继。
 
 # 目录
-
-- [完全用linux工作](ebook/work_with_linux.md) ---- 原文
-- [linux生存手册](ebook/linux_man.md)   ---- 原文最后一部分《我用来处理日常事务的 Linux 程序》
+* **完全用linux工作**  ---- 原文转载
+ - [完全用linux工作（一）](ebook/work_with_linux_1.md)
+ - [完全用linux工作（二）](ebook/work_with_linux_2.md)
+ - [完全用linux工作（三）](ebook/work_with_linux_3.md)
+* **[linux生存手册](ebook/linux_man.md) **   ---- 原文最后一部分《我用来处理日常事务的 Linux 程序》
 
 # 计划
 
