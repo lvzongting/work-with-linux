@@ -1,6 +1,3 @@
-work-with-linux
-===============
-
 # 完全用linux工作
 
 linuxtoy上面有一份排版完美的[完全用linux排版](http://i.linuxtoy.org/docs/guide/ch06.html)
