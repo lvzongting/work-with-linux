@@ -15,7 +15,7 @@ linuxtoy上面有一份排版完美的[完全用linux排版](http://i.linuxtoy.o
 # 目录
 
 - [完全用linux工作](ebook/work_with_linux) ---- 原文
-- [linux生存手册](ebook/linux生存手册)   ---- 原文最后一部分《我用来处理日常事务的 Linux 程序》
+- [linux生存手册](ebook/linux_man)   ---- 原文最后一部分《我用来处理日常事务的 Linux 程序》
 
 # 计划
 
