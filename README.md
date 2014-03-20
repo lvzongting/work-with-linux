@@ -30,3 +30,8 @@ linuxtoy上面有一份排版完美的版本，地址：http://i.linuxtoy.org/do
 
 - 完全用linux工作 ---- 原文
 - linux生存手册   ---- 原文最后一部分《我用来处理日常事务的 Linux 程序》
+
+
+**贡献者**
+
+- zodiac1111  issue 1#
