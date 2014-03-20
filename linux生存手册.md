@@ -18,6 +18,21 @@ GUI图形界面程序
 
 - 浏览器
 - PDF阅读器
+- 英汉词典部分 goldendict 也非常强大.
+- gui方面比较方便的终端guake ,主要是呼出有点像cs的控制台.
+- 编辑器非自由的话还有sublime text,还有一个开源go语言的实现,
+- qq的话webqq也是一种方式.
+- ZeroBrane Studio 轻量级lua ide.
+- 图形编辑Krita(Digital Painting for Artists) 有点ps的感觉.比较重量级.qt
+- eclipse +各种插件.几乎所有类型的语言都有.用过c++和lua的.avr也还不错.比较重量级,扩展性较好
+- shutter 增强的截屏软件,有一些简单实用的编辑功能.
+- meld,图形化的diff工具.比较美观易用.
+- diffpdf,pdfdiff工具,比较少有的需求.查看一些只有pdf格式的标准文件的变化比较实用,比如两个不同年份的标准,到底修改了什么内容.
+- vlc视频播放器,多种格式.比较大
+- 游戏 steam游戏平台.一些比较前沿的(独立)游戏发布
+- 虚拟化,virtualbox
+- wireshark 网络抓包,学习网络知识,调试网络程序等,命令行tcpdump. netcat网络程序调试
+
 
 **性能测试**
 
@@ -60,6 +75,14 @@ GUI图形界面程序
 
 CLI命令行界面程序
 --------------
+
+**常用应用**
+    
+- 终端复用 tmux
+- 一个比较现代的shell(相对bash而言):fish,有些惊艳的功能.
+- webfs 专一的轻量级的web文件系统实现.也不失为一种文件分享的方式.
+
+
 
 
 
