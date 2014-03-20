@@ -37,6 +37,8 @@ linuxtoy上面有一份排版完美的[完全用linux排版](http://i.linuxtoy.o
 # Contributors
 
 - zodiac1111  issue 1#
+- lijsf       issue 2#
+- lvzongting  init
 
 集结令：欢迎所有有志于分享，热爱开源运动同学加入这个项目，Make this world better～
 
