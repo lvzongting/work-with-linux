@@ -112,6 +112,14 @@ GNU软件堆栈
 
 - Cygwin
 - Cygwin Ports
+  
+  由于商业壁垒M$不会让任何自己的程序在linux上运行(即使推出了office2013 for MAC 也是极其不情愿的！)，但是相反，GNU软件堆栈由于其出色的移植性能，却可以在任何地方运行，当有些时候你不得不迫于某种(官僚)压力而必须在windows下工作的时候，你仍然还是可以得到自由的。Cygwin和Cygwin Ports就是解救你的大使。
+
+  cygwin包含了GNU软件堆栈中的全部的软件，包括好用wget，awk，vim，emace以及一个效率非常高的gcc等等，cygwin ports是一个有力的补充，其中包括KDE和GNOME，是的，当你厌烦了频繁崩溃的explorer的时候，就把他kill掉吧，然后运行c:\cygwin\opt\kde4\startkde.bat这样就能彻底取代那个讨厌的explorer了。由于不正当竞争的策略，M$将IE捆绑到了explorer中，通过这样的方法就可以彻底的关掉那个臃肿而无用的IE了。
+  
+  如果你觉得每次都需要这样很麻烦，那么就去那个可笑而肥硕的注册表修改一个key，[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]这个键值应该是explorer.exe 将其修改为c:\cygwin\opt\kde4\startkde.bat记住修改前看看路径是否正确。GNOME也是同样的道理。
+  
+  这样用时间长了，你会非常抱怨windows的效率，赶快解决行政问题，装一个真正的linux吧。你会得到一个更加高效的作业环境。这个高效包括运行速度和使用便捷性两个方面。
 
 
 Linux内核
