@@ -1,6 +1,6 @@
 # 完全用linux工作
 
-linuxtoy上面有一份排版完美的[完全用linux排版](http://i.linuxtoy.org/docs/guide/ch06.html)
+linuxtoy上面有一份排版完美的[完全用linux工作](http://i.linuxtoy.org/docs/guide/ch06.html)
 这个是王垠写的一篇神作，里面有很多有价值的东西，但是随着时代发展里面的一些内容发生了巨大的变化。
 
 知识是有时代背景的，历史是需要我们维护和续写的。
