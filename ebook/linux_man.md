@@ -18,20 +18,19 @@ GUI图形界面程序
 
 - 浏览器
 - PDF阅读器
-- 英汉词典部分 goldendict 也非常强大.
-- gui方面比较方便的终端guake ,主要是呼出有点像cs的控制台.
+- 英汉词典部分 [goldendict](http://goldendict.org/) 也非常强大.
+- gui方面比较方便的终端[guake](https://github.com/Guake/guake) ,主要是呼出有点像cs的控制台.
 - 编辑器非自由的话还有sublime text,还有一个开源go语言的实现,
-- qq的话webqq也是一种方式.
-- ZeroBrane Studio 轻量级lua ide.
+- [ZeroBrane Studio](http://studio.zerobrane.com/) 轻量级lua IDE.
 - 图形编辑Krita(Digital Painting for Artists) 有点ps的感觉.比较重量级.qt
-- eclipse +各种插件.几乎所有类型的语言都有.用过c++和lua的.avr也还不错.比较重量级,扩展性较好
+- [eclipse](https://www.eclipse.org/) +各种插件.几乎所有类型的语言都有.用过c++和lua的.avr也还不错.比较重量级,扩展性较好
 - shutter 增强的截屏软件,有一些简单实用的编辑功能.
-- meld,图形化的diff工具.比较美观易用.
+- [meld](http://meldmerge.org/),图形化的diff工具.比较美观易用.
 - diffpdf,pdfdiff工具,比较少有的需求.查看一些只有pdf格式的标准文件的变化比较实用,比如两个不同年份的标准,到底修改了什么内容.
 - vlc视频播放器,多种格式.比较大
-- 游戏 steam游戏平台.一些比较前沿的(独立)游戏发布
-- 虚拟化,virtualbox
-- wireshark 网络抓包,学习网络知识,调试网络程序等,命令行tcpdump. netcat网络程序调试
+- 游戏 [steam](http://store.steampowered.com/)游戏平台.一些比较前沿的(独立)游戏发布
+- 虚拟化,[virtualbox](https://www.virtualbox.org/)
+- [wireshark](http://www.wireshark.org/) 网络抓包,学习网络知识,调试网络程序等,命令行tcpdump. netcat网络程序调试
 
 
 **性能测试**
@@ -48,7 +47,9 @@ GUI图形界面程序
    
 - QQ
 
-  pidgin-lwqq
+  - pidgin-lwqq
+  - [webqq](http://web2.qq.com/webqq.html)
+  - [smartqq](http://w.qq.com/) 更轻量级的类似智能手机qq.
 
 - 迅雷
 
