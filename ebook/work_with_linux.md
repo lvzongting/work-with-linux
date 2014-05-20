@@ -249,10 +249,11 @@ CLI派用户：“切～ 你还用 X！高手都不用 X。你是 GUI 那边的�
 
 好了。CLI 派的朋友，虽然我很喜欢命令行，但是我有时在屏幕上左右画一下就可以执行:
 
-``bash`
+```bash
     Module FvwmConsole -terminal rxvt -geometry 45x5-0+0 \
     -bg gold -fg midnightblue  \
     -fn &quot;-adobe-courier-medium-r-*-*-14-*-*-*-*-*-*-*&quot;
+```
 
 你是不是现在又想把我逐出师门？
 
@@ -260,6 +261,7 @@ GUI 派的朋友，虽然我很喜欢窗口。但是我可以在 FvwmConsole 里
 
 ```bash
     All (rxvt) MoveToDesk
+```
 
 把我所有的 rxvt 移动到我现在工作的桌面。“这家伙，怎么这么快就叛变了！”
 
