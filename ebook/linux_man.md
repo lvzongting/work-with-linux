@@ -17,8 +17,9 @@ GUI图形界面程序
 **日常应用**
 
 - 浏览器
-- PDF阅读器
-- 英汉词典部分 [goldendict](http://goldendict.org/) 也非常强大.
+- 在线聊天: 建议大家使用[XMPP/Jabber](https://xmpp.org/)聊天协议代替协议封闭的QQ,微信,MSN,Skype等，曾经的Google Talk,网易泡泡都是基于XMPP的聊天服务。[Pidgin](http://pidgin.im/)是个不错的支持XMPP的客户端，手机可以用[Conversations](https://github.com/siacs/Conversations)，还可以用[ejabberd](http://www.ejabberd.im/)等软件搭建自己的XMPP服务器。
+- PDF阅读器: 强烈推荐[MuPDF](http://mupdf.com/),轻量，高效，渲染效果好。此外okular,evince等也可以。
+- 英汉词典部分 [goldendict](http://goldendict.org/) 也非常强大。此外还有有道在线词典的命令行版[ydcv](https://github.com/felixonmars/ydcv).
 - gui方面比较方便的终端[guake](https://github.com/Guake/guake) ,主要是呼出有点像cs的控制台.
 - 编辑器非自由的话还有sublime text,还有一个开源go语言的实现,
 - [ZeroBrane Studio](http://studio.zerobrane.com/) 轻量级lua IDE.
@@ -27,9 +28,10 @@ GUI图形界面程序
 - shutter 增强的截屏软件,有一些简单实用的编辑功能.
 - [meld](http://meldmerge.org/),图形化的diff工具.比较美观易用.
 - diffpdf,pdfdiff工具,比较少有的需求.查看一些只有pdf格式的标准文件的变化比较实用,比如两个不同年份的标准,到底修改了什么内容.
-- vlc视频播放器,多种格式.比较大
+- 音频播放: [moc](http://moc.daper.net/)是字符终端下的音频播放器，支持后台播放。此外还有[mpd](http://www.musicpd.org/),它是个后台播放服务，可以通过前端程序ncmpc等播放音乐，还可以开网络广播。
+- 视频播放器: [mpv](https://mpv.io/)是MPlayer的fork版本，已经非常成熟，支持多种硬解。还有[VLC](https://www.videolan.org/)视频播放器,支持多种格式。
 - 游戏 [steam](http://store.steampowered.com/)游戏平台.一些比较前沿的(独立)游戏发布
-- 虚拟化,[virtualbox](https://www.virtualbox.org/)
+- 虚拟化,[virtualbox](https://www.virtualbox.org/). 还有[qemu](http://wiki.qemu.org/),支持硬件虚拟化(借助KVM)和软件模拟，还支持跨架构模拟。
 - [wireshark](http://www.wireshark.org/) 网络抓包,学习网络知识,调试网络程序等,命令行tcpdump. netcat网络程序调试
 
 
